@@ -1,0 +1,21 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.game-card {
+  width: 640px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+}
+.game-container {
+  height: 500px;
+  background: linear-gradient(#6a59ff, #fbc7d4);
+  width: 100%;
+}
+.ul-card {
+  display: flex;
+  flex-wrap: wrap;
+}

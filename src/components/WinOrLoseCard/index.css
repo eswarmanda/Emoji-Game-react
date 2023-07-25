@@ -1,0 +1,45 @@
+.main-card {
+  height: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.result-card {
+  display: flex;
+  background-color: #ffffff33;
+  border-radius: 10px;
+}
+.result-child {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+.lose-img {
+  height: 330px;
+  margin: 20px;
+}
+.lose {
+  font-size: x-large;
+  color: #ffffff;
+}
+.score-title {
+  font-size: large;
+  color: #ffffff;
+  font-weight: 600;
+}
+.status {
+  font-size: xx-large;
+  font-weight: 600;
+  color: #6a59ff;
+}
+.play-btn {
+  background-color: #ffce27;
+  height: 40px;
+  width: 120px;
+  border: none;
+  border-radius: 10px;
+  font-weight: 500;
+}

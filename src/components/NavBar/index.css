@@ -1,0 +1,27 @@
+.nav-bar {
+  background-color: #9796f0;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-card {
+  display: flex;
+  padding: 10px;
+}
+.logo {
+  height: 40px;
+}
+.log-heading {
+  font-size: medium;
+  color: aliceblue;
+}
+.score-card {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  width: 200px;
+  color: aliceblue;
+  margin-right: 20px;
+  font-size: medium;
+}
